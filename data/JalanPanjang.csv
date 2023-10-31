@@ -1,0 +1,37 @@
+wilayah,peran_jalan,panjang,luas,kewenangan
+Jakarta Pusat,Toll,2500,60000,Nasional/ PUPR
+Jakarta Pusat,Arteri Primer,0,0,Nasional/ PUPR
+Jakarta Pusat,Kolektor Primer,0,0,Nasional/ PUPR
+Jakarta Pusat,Arteri Sekunder,94382,2169783,Provinsi DKI Jakarta
+Jakarta Pusat,Kolektor Sekunder,149431,1553683,Provinsi DKI Jakarta
+Jakarta Pusat,Lokal,448344,2236082,Provinsi DKI Jakarta
+Jakarta Utara,Toll,46100,1075200,Nasional/ PUPR
+Jakarta Utara,Arteri Primer,11917,194062,Nasional/ PUPR
+Jakarta Utara,Kolektor Primer,0,0,Nasional/ PUPR
+Jakarta Utara,Arteri Sekunder,124571,1892176,Provinsi DKI Jakarta
+Jakarta Utara,Kolektor Sekunder,110876,904542,Provinsi DKI Jakarta
+Jakarta Utara,Lokal,853213,4407372,Provinsi DKI Jakarta
+Jakarta Barat,Toll,30500,732000,Nasional/ PUPR
+Jakarta Barat,Arteri Primer,11972,234416,Nasional/ PUPR
+Jakarta Barat,Kolektor Primer,0,0,Nasional/ PUPR
+Jakarta Barat,Arteri Sekunder,126924,1731012,Provinsi DKI Jakarta
+Jakarta Barat,Kolektor Sekunder,126924,1731012,Provinsi DKI Jakarta
+Jakarta Barat,Lokal,891587,4178964,Provinsi DKI Jakarta
+Jakarta Selatan,Toll,28800,691200,Nasional/ PUPR
+Jakarta Selatan,Arteri Primer,11501,161014,Nasional/ PUPR
+Jakarta Selatan,Kolektor Primer,2160,31540,Nasional/ PUPR
+Jakarta Selatan,Arteri Sekunder,169323,2569507,Provinsi DKI Jakarta
+Jakarta Selatan,Kolektor Sekunder,193078,1552427,Provinsi DKI Jakarta
+Jakarta Selatan,Lokal,1623756,7638183,Provinsi DKI Jakarta
+Jakarta Timur,Toll,52450,1451550,Nasional/ PUPR
+Jakarta Timur,Arteri Primer,22306,367404,Nasional/ PUPR
+Jakarta Timur,Kolektor Primer,0,0,Nasional/ PUPR
+Jakarta Timur,Arteri Sekunder,179261,2817666,Provinsi DKI Jakarta
+Jakarta Timur,Kolektor Sekunder,183767,1525165,Provinsi DKI Jakarta
+Jakarta Timur,Lokal,1132495,5086234,Provinsi DKI Jakarta
+Total DKI Jakarta,Toll,160350,4009950,Nasional/ PUPR
+Total DKI Jakarta,Arteri Primer,57696,956896,Nasional/ PUPR
+Total DKI Jakarta,Kolektor Primer,2160,31540,Nasional/ PUPR
+Total DKI Jakarta,Arteri Sekunder,694460,11180145,Provinsi DKI Jakarta
+Total DKI Jakarta,Kolektor Sekunder,788618,6701165,Provinsi DKI Jakarta
+Total DKI Jakarta,Lokal,4949394,23546835,Provinsi DKI Jakarta

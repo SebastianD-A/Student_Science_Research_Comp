@@ -1,0 +1,221 @@
+tahun,wilayah,kecamatan,fasilitas_kesehatan,jumlah
+2020,Kepualauan Seribu,Kepulauan Seribu Utara,Rumah Sakit Umum,1
+2020,Kepualauan Seribu,Kepulauan Seribu Selatan,Rumah Sakit Umum,0
+2020,Jakarta Selatan,Cilandak,Rumah Sakit Umum,4
+2020,Jakarta Selatan,Jagakarsa ,Rumah Sakit Umum,5
+2020,Jakarta Selatan,Kebayoran Baru,Rumah Sakit Umum,4
+2020,Jakarta Selatan,Kebayoran Lama,Rumah Sakit Umum,5
+2020,Jakarta Selatan,Mampang Prapatan,Rumah Sakit Umum,1
+2020,Jakarta Selatan,Pancoran,Rumah Sakit Umum,4
+2020,Jakarta Selatan,Pasar Minggu,Rumah Sakit Umum,4
+2020,Jakarta Selatan,Pesanggrahan,Rumah Sakit Umum,3
+2020,Jakarta Selatan,Setiabudi,Rumah Sakit Umum,6
+2020,Jakarta Selatan,Tebet,Rumah Sakit Umum,2
+2020,Jakarta Timur,Jatinegara,Rumah Sakit Umum,3
+2020,Jakarta Timur,Matraman,Rumah Sakit Umum,1
+2020,Jakarta Timur,Pulogadung,Rumah Sakit Umum,7
+2020,Jakarta Timur,Cakung,Rumah Sakit Umum,1
+2020,Jakarta Timur,Duren Sawit,Rumah Sakit Umum,3
+2020,Jakarta Timur,Kramat Jati,Rumah Sakit Umum,7
+2020,Jakarta Timur,Makasar,Rumah Sakit Umum,4
+2020,Jakarta Timur,Cipayung,Rumah Sakit Umum,2
+2020,Jakarta Timur,Pasar Rebo,Rumah Sakit Umum,2
+2020,Jakarta Timur,Ciracas,Rumah Sakit Umum,3
+2020,Jakarta Pusat,Cempaka Putih,Rumah Sakit Umum,5
+2020,Jakarta Pusat,Johar Baru,Rumah Sakit Umum,1
+2020,Jakarta Pusat,Menteng,Rumah Sakit Umum,5
+2020,Jakarta Pusat,Tanah Abang,Rumah Sakit Umum,3
+2020,Jakarta Pusat,Kemayoran,Rumah Sakit Umum,3
+2020,Jakarta Pusat,Senen,Rumah Sakit Umum,5
+2020,Jakarta Pusat,Sawah Besar,Rumah Sakit Umum,2
+2020,Jakarta Pusat,Gambir,Rumah Sakit Umum,2
+2020,Jakarta Barat,Kembangan,Rumah Sakit Umum,2
+2020,Jakarta Barat,Kebon Jeruk,Rumah Sakit Umum,7
+2020,Jakarta Barat,Palmerah,Rumah Sakit Umum,3
+2020,Jakarta Barat,Grogol Petamburan,Rumah Sakit Umum,2
+2020,Jakarta Barat,Tambora,Rumah Sakit Umum,0
+2020,Jakarta Barat,Taman Sari,Rumah Sakit Umum,1
+2020,Jakarta Barat,Cengkareng,Rumah Sakit Umum,2
+2020,Jakarta Barat,Kalideres,Rumah Sakit Umum,4
+2020,Jakarta Utara,Penjaringan,Rumah Sakit Umum,4
+2020,Jakarta Utara,Pademangan,Rumah Sakit Umum,2
+2020,Jakarta Utara,Tanjung Priok,Rumah Sakit Umum,7
+2020,Jakarta Utara,Koja,Rumah Sakit Umum,4
+2020,Jakarta Utara,Kelapa Gading,Rumah Sakit Umum,2
+2020,Jakarta Utara,Cilincing,Rumah Sakit Umum,4
+2020,Kepualauan Seribu,Kepulauan Seribu Utara,Rumah Sakit Khusus,0
+2020,Kepualauan Seribu,Kepulauan Seribu Selatan,Rumah Sakit Khusus,0
+2020,Jakarta Selatan,Cilandak,Rumah Sakit Khusus,0
+2020,Jakarta Selatan,Jagakarsa ,Rumah Sakit Khusus,0
+2020,Jakarta Selatan,Kebayoran Baru,Rumah Sakit Khusus,2
+2020,Jakarta Selatan,Kebayoran Lama,Rumah Sakit Khusus,1
+2020,Jakarta Selatan,Mampang Prapatan,Rumah Sakit Khusus,0
+2020,Jakarta Selatan,Pancoran,Rumah Sakit Khusus,0
+2020,Jakarta Selatan,Pasar Minggu,Rumah Sakit Khusus,0
+2020,Jakarta Selatan,Pesanggrahan,Rumah Sakit Khusus,1
+2020,Jakarta Selatan,Setiabudi,Rumah Sakit Khusus,2
+2020,Jakarta Selatan,Tebet,Rumah Sakit Khusus,0
+2020,Jakarta Timur,Jatinegara,Rumah Sakit Khusus,0
+2020,Jakarta Timur,Matraman,Rumah Sakit Khusus,1
+2020,Jakarta Timur,Pulogadung,Rumah Sakit Khusus,2
+2020,Jakarta Timur,Cakung,Rumah Sakit Khusus,0
+2020,Jakarta Timur,Duren Sawit,Rumah Sakit Khusus,2
+2020,Jakarta Timur,Kramat Jati,Rumah Sakit Khusus,1
+2020,Jakarta Timur,Makasar,Rumah Sakit Khusus,1
+2020,Jakarta Timur,Cipayung,Rumah Sakit Khusus,0
+2020,Jakarta Timur,Pasar Rebo,Rumah Sakit Khusus,0
+2020,Jakarta Timur,Ciracas,Rumah Sakit Khusus,2
+2020,Jakarta Pusat,Cempaka Putih,Rumah Sakit Khusus,0
+2020,Jakarta Pusat,Johar Baru,Rumah Sakit Khusus,0
+2020,Jakarta Pusat,Menteng,Rumah Sakit Khusus,3
+2020,Jakarta Pusat,Tanah Abang,Rumah Sakit Khusus,1
+2020,Jakarta Pusat,Kemayoran,Rumah Sakit Khusus,0
+2020,Jakarta Pusat,Senen,Rumah Sakit Khusus,2
+2020,Jakarta Pusat,Sawah Besar,Rumah Sakit Khusus,0
+2020,Jakarta Pusat,Gambir,Rumah Sakit Khusus,1
+2020,Jakarta Barat,Kembangan,Rumah Sakit Khusus,0
+2020,Jakarta Barat,Kebon Jeruk,Rumah Sakit Khusus,1
+2020,Jakarta Barat,Palmerah,Rumah Sakit Khusus,2
+2020,Jakarta Barat,Grogol Petamburan,Rumah Sakit Khusus,2
+2020,Jakarta Barat,Tambora,Rumah Sakit Khusus,0
+2020,Jakarta Barat,Taman Sari,Rumah Sakit Khusus,0
+2020,Jakarta Barat,Cengkareng,Rumah Sakit Khusus,0
+2020,Jakarta Barat,Kalideres,Rumah Sakit Khusus,0
+2020,Jakarta Utara,Penjaringan,Rumah Sakit Khusus,0
+2020,Jakarta Utara,Pademangan,Rumah Sakit Khusus,0
+2020,Jakarta Utara,Tanjung Priok,Rumah Sakit Khusus,2
+2020,Jakarta Utara,Koja,Rumah Sakit Khusus,0
+2020,Jakarta Utara,Kelapa Gading,Rumah Sakit Khusus,0
+2020,Jakarta Utara,Cilincing,Rumah Sakit Khusus,0
+2020,Kepualauan Seribu,Kepulauan Seribu Utara,Rumah Sakit Bersalin,0
+2020,Kepualauan Seribu,Kepulauan Seribu Selatan,Rumah Sakit Bersalin,0
+2020,Jakarta Selatan,Cilandak,Rumah Sakit Bersalin,0
+2020,Jakarta Selatan,Jagakarsa ,Rumah Sakit Bersalin,0
+2020,Jakarta Selatan,Kebayoran Baru,Rumah Sakit Bersalin,4
+2020,Jakarta Selatan,Kebayoran Lama,Rumah Sakit Bersalin,0
+2020,Jakarta Selatan,Mampang Prapatan,Rumah Sakit Bersalin,0
+2020,Jakarta Selatan,Pancoran,Rumah Sakit Bersalin,0
+2020,Jakarta Selatan,Pasar Minggu,Rumah Sakit Bersalin,1
+2020,Jakarta Selatan,Pesanggrahan,Rumah Sakit Bersalin,1
+2020,Jakarta Selatan,Setiabudi,Rumah Sakit Bersalin,1
+2020,Jakarta Selatan,Tebet,Rumah Sakit Bersalin,0
+2020,Jakarta Timur,Jatinegara,Rumah Sakit Bersalin,0
+2020,Jakarta Timur,Matraman,Rumah Sakit Bersalin,0
+2020,Jakarta Timur,Pulogadung,Rumah Sakit Bersalin,1
+2020,Jakarta Timur,Cakung,Rumah Sakit Bersalin,1
+2020,Jakarta Timur,Duren Sawit,Rumah Sakit Bersalin,4
+2020,Jakarta Timur,Kramat Jati,Rumah Sakit Bersalin,0
+2020,Jakarta Timur,Makasar,Rumah Sakit Bersalin,0
+2020,Jakarta Timur,Cipayung,Rumah Sakit Bersalin,0
+2020,Jakarta Timur,Pasar Rebo,Rumah Sakit Bersalin,0
+2020,Jakarta Timur,Ciracas,Rumah Sakit Bersalin,0
+2020,Jakarta Pusat,Cempaka Putih,Rumah Sakit Bersalin,1
+2020,Jakarta Pusat,Johar Baru,Rumah Sakit Bersalin,0
+2020,Jakarta Pusat,Menteng,Rumah Sakit Bersalin,2
+2020,Jakarta Pusat,Tanah Abang,Rumah Sakit Bersalin,0
+2020,Jakarta Pusat,Kemayoran,Rumah Sakit Bersalin,0
+2020,Jakarta Pusat,Senen,Rumah Sakit Bersalin,0
+2020,Jakarta Pusat,Sawah Besar,Rumah Sakit Bersalin,0
+2020,Jakarta Pusat,Gambir,Rumah Sakit Bersalin,0
+2020,Jakarta Barat,Kembangan,Rumah Sakit Bersalin,0
+2020,Jakarta Barat,Kebon Jeruk,Rumah Sakit Bersalin,0
+2020,Jakarta Barat,Palmerah,Rumah Sakit Bersalin,1
+2020,Jakarta Barat,Grogol Petamburan,Rumah Sakit Bersalin,1
+2020,Jakarta Barat,Tambora,Rumah Sakit Bersalin,1
+2020,Jakarta Barat,Taman Sari,Rumah Sakit Bersalin,0
+2020,Jakarta Barat,Cengkareng,Rumah Sakit Bersalin,0
+2020,Jakarta Barat,Kalideres,Rumah Sakit Bersalin,0
+2020,Jakarta Utara,Penjaringan,Rumah Sakit Bersalin,2
+2020,Jakarta Utara,Pademangan,Rumah Sakit Bersalin,0
+2020,Jakarta Utara,Tanjung Priok,Rumah Sakit Bersalin,1
+2020,Jakarta Utara,Koja,Rumah Sakit Bersalin,0
+2020,Jakarta Utara,Kelapa Gading,Rumah Sakit Bersalin,0
+2020,Jakarta Utara,Cilincing,Rumah Sakit Bersalin,0
+2020,Kepualauan Seribu,Kepulauan Seribu Utara,Puskesmas,3
+2020,Kepualauan Seribu,Kepulauan Seribu Selatan,Puskesmas,3
+2020,Jakarta Selatan,Cilandak,Puskesmas,6
+2020,Jakarta Selatan,Jagakarsa ,Puskesmas,8
+2020,Jakarta Selatan,Kebayoran Baru,Puskesmas,10
+2020,Jakarta Selatan,Kebayoran Lama,Puskesmas,8
+2020,Jakarta Selatan,Mampang Prapatan,Puskesmas,6
+2020,Jakarta Selatan,Pancoran,Puskesmas,9
+2020,Jakarta Selatan,Pasar Minggu,Puskesmas,10
+2020,Jakarta Selatan,Pesanggrahan,Puskesmas,6
+2020,Jakarta Selatan,Setiabudi,Puskesmas,7
+2020,Jakarta Selatan,Tebet,Puskesmas,7
+2020,Jakarta Timur,Jatinegara,Puskesmas,12
+2020,Jakarta Timur,Matraman,Puskesmas,7
+2020,Jakarta Timur,Pulogadung,Puskesmas,9
+2020,Jakarta Timur,Cakung,Puskesmas,9
+2020,Jakarta Timur,Duren Sawit,Puskesmas,12
+2020,Jakarta Timur,Kramat Jati,Puskesmas,8
+2020,Jakarta Timur,Makasar,Puskesmas,7
+2020,Jakarta Timur,Cipayung,Puskesmas,10
+2020,Jakarta Timur,Pasar Rebo,Puskesmas,6
+2020,Jakarta Timur,Ciracas,Puskesmas,5
+2020,Jakarta Pusat,Cempaka Putih,Puskesmas,4
+2020,Jakarta Pusat,Johar Baru,Puskesmas,6
+2020,Jakarta Pusat,Menteng,Puskesmas,3
+2020,Jakarta Pusat,Tanah Abang,Puskesmas,6
+2020,Jakarta Pusat,Kemayoran,Puskesmas,7
+2020,Jakarta Pusat,Senen,Puskesmas,6
+2020,Jakarta Pusat,Sawah Besar,Puskesmas,4
+2020,Jakarta Pusat,Gambir,Puskesmas,6
+2020,Jakarta Barat,Kembangan,Puskesmas,8
+2020,Jakarta Barat,Kebon Jeruk,Puskesmas,8
+2020,Jakarta Barat,Palmerah,Puskesmas,10
+2020,Jakarta Barat,Grogol Petamburan,Puskesmas,10
+2020,Jakarta Barat,Tambora,Puskesmas,9
+2020,Jakarta Barat,Taman Sari,Puskesmas,6
+2020,Jakarta Barat,Cengkareng,Puskesmas,10
+2020,Jakarta Barat,Kalideres,Puskesmas,13
+2020,Jakarta Utara,Penjaringan,Puskesmas,7
+2020,Jakarta Utara,Pademangan,Puskesmas,4
+2020,Jakarta Utara,Tanjung Priok,Puskesmas,13
+2020,Jakarta Utara,Koja,Puskesmas,8
+2020,Jakarta Utara,Kelapa Gading,Puskesmas,5
+2020,Jakarta Utara,Cilincing,Puskesmas,10
+2020,Kepualauan Seribu,Kepulauan Seribu Utara,Klinik Balai Kesehatan,0
+2020,Kepualauan Seribu,Kepulauan Seribu Selatan,Klinik Balai Kesehatan,0
+2020,Jakarta Selatan,Cilandak,Klinik Balai Kesehatan,32
+2020,Jakarta Selatan,Jagakarsa ,Klinik Balai Kesehatan,18
+2020,Jakarta Selatan,Kebayoran Baru,Klinik Balai Kesehatan,72
+2020,Jakarta Selatan,Kebayoran Lama,Klinik Balai Kesehatan,55
+2020,Jakarta Selatan,Mampang Prapatan,Klinik Balai Kesehatan,21
+2020,Jakarta Selatan,Pancoran,Klinik Balai Kesehatan,20
+2020,Jakarta Selatan,Pasar Minggu,Klinik Balai Kesehatan,30
+2020,Jakarta Selatan,Pesanggrahan,Klinik Balai Kesehatan,14
+2020,Jakarta Selatan,Setiabudi,Klinik Balai Kesehatan,33
+2020,Jakarta Selatan,Tebet,Klinik Balai Kesehatan,38
+2020,Jakarta Timur,Jatinegara,Klinik Balai Kesehatan,26
+2020,Jakarta Timur,Matraman,Klinik Balai Kesehatan,0
+2020,Jakarta Timur,Pulogadung,Klinik Balai Kesehatan,36
+2020,Jakarta Timur,Cakung,Klinik Balai Kesehatan,36
+2020,Jakarta Timur,Duren Sawit,Klinik Balai Kesehatan,26
+2020,Jakarta Timur,Kramat Jati,Klinik Balai Kesehatan,24
+2020,Jakarta Timur,Makasar,Klinik Balai Kesehatan,12
+2020,Jakarta Timur,Cipayung,Klinik Balai Kesehatan,0
+2020,Jakarta Timur,Pasar Rebo,Klinik Balai Kesehatan,65
+2020,Jakarta Timur,Ciracas,Klinik Balai Kesehatan,0
+2020,Jakarta Pusat,Cempaka Putih,Klinik Balai Kesehatan,29
+2020,Jakarta Pusat,Johar Baru,Klinik Balai Kesehatan,14
+2020,Jakarta Pusat,Menteng,Klinik Balai Kesehatan,42
+2020,Jakarta Pusat,Tanah Abang,Klinik Balai Kesehatan,69
+2020,Jakarta Pusat,Kemayoran,Klinik Balai Kesehatan,44
+2020,Jakarta Pusat,Senen,Klinik Balai Kesehatan,22
+2020,Jakarta Pusat,Sawah Besar,Klinik Balai Kesehatan,27
+2020,Jakarta Pusat,Gambir,Klinik Balai Kesehatan,63
+2020,Jakarta Barat,Kembangan,Klinik Balai Kesehatan,37
+2020,Jakarta Barat,Kebon Jeruk,Klinik Balai Kesehatan,32
+2020,Jakarta Barat,Palmerah,Klinik Balai Kesehatan,12
+2020,Jakarta Barat,Grogol Petamburan,Klinik Balai Kesehatan,52
+2020,Jakarta Barat,Tambora,Klinik Balai Kesehatan,13
+2020,Jakarta Barat,Taman Sari,Klinik Balai Kesehatan,17
+2020,Jakarta Barat,Cengkareng,Klinik Balai Kesehatan,34
+2020,Jakarta Barat,Kalideres,Klinik Balai Kesehatan,32
+2020,Jakarta Utara,Penjaringan,Klinik Balai Kesehatan,57
+2020,Jakarta Utara,Pademangan,Klinik Balai Kesehatan,18
+2020,Jakarta Utara,Tanjung Priok,Klinik Balai Kesehatan,59
+2020,Jakarta Utara,Koja,Klinik Balai Kesehatan,20
+2020,Jakarta Utara,Kelapa Gading,Klinik Balai Kesehatan,86
+2020,Jakarta Utara,Cilincing,Klinik Balai Kesehatan,24
