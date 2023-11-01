@@ -59,7 +59,7 @@ for problem, count in jakpus_count.items():
 print("Jakarta Barat:")
 for problem, count in jakbar_count.items():
      print(f"{count}")
- print()
+print()
 print("Jakarta Timur:")
 for problem, count in jaktim_count.items():
      print(f"{count}")
