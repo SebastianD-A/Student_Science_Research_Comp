@@ -47,33 +47,27 @@ jakbar_count = Counter(jakbar)
 jaktim_count = Counter(jaktim)
 jaksel_count = Counter(jaksel)
 jakut_count = Counter(jakut)
-# kabser_count.most_common()#done
-# jakpus_count.most_common()#done
-# jakbar_count.most_common()#done
-# jaktim_count.most_common()#done
-# jaksel_count.most_common()#done
-# jakut_count.most_common()
 
-# done print("Kabupaten Administrasi Kepulauan Seribu:")
-# for problem, count in kabser_count.items():
-#     print(f"{count}")
-# print()
-# done print("Jakarta Pusat:")
-# for problem, count in jakpus_count.items():
-#     print(f"{count}")
-# print()
-#done print("Jakarta Barat:")
-# for problem, count in jakbar_count.items():
-#     print(f"{count}")
-# print()
-# done print("Jakarta Timur:")
-# for problem, count in jaktim_count.items():
-#     print(f"{count}")
-# print()
-# print("Jakarta Selatan:")
-# for problem, count in jaksel_count.items():
-#     print(f"{count}")
-# print()
+print("Kabupaten Administrasi Kepulauan Seribu:")
+for problem, count in kabser_count.items():
+     print(f"{count}")
+print()
+print("Jakarta Pusat:")
+for problem, count in jakpus_count.items():
+     print(f"{count}")
+ print()
+print("Jakarta Barat:")
+for problem, count in jakbar_count.items():
+     print(f"{count}")
+ print()
+print("Jakarta Timur:")
+for problem, count in jaktim_count.items():
+     print(f"{count}")
+print()
+print("Jakarta Selatan:")
+for problem, count in jaksel_count.items():
+     print(f"{count}")
+ print()
 print("Jakarta Utara:")
 for problem, count in jakut_count.items():
     print(f"{count}")
